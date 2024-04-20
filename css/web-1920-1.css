@@ -1,0 +1,276 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  align-items: center;
+  background-color: var(--brown-sugar);
+  display: flex;
+  flex-direction: column;
+  height: 1920px;
+  width: 1080px;
+}
+
+.web-1920-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 51px;
+  min-height: 1113px;
+  width: 1021px;
+}
+
+.web-1920-1 .overlap-group2 {
+  height: 366px;
+  position: relative;
+  width: 1021px;
+}
+
+.web-1920-1 .image-1 {
+  height: 336px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1021px;
+}
+
+.web-1920-1 .services {
+  left: 281px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 332px;
+  width: 102px;
+}
+
+.web-1920-1 .location {
+  left: 492px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 332px;
+  width: 102px;
+}
+
+.web-1920-1 .contact-us {
+  left: 702px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 332px;
+  width: 139px;
+}
+
+.web-1920-1 .title {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 66.0px;
+  margin-top: 52px;
+  min-height: 69px;
+  width: 587px;
+}
+
+.web-1920-1 .cliftondale-barborsh {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 1.0px;
+  margin-top: 77px;
+  min-height: 202px;
+  min-width: 974px;
+  white-space: nowrap;
+}
+
+.web-1920-1 .services-1 {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 67.0px;
+  margin-top: 55px;
+  min-height: 69px;
+  width: 214px;
+}
+
+.web-1920-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 67.0px;
+  margin-top: 33px;
+  min-width: 730px;
+}
+
+.web-1920-1 .haircut {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  width: 197px;
+}
+
+.web-1920-1 .shampoo {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 79px;
+  min-height: 42px;
+  width: 197px;
+}
+
+.web-1920-1 .lineup {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 60px;
+  min-height: 42px;
+  width: 197px;
+}
+
+.web-1920-1 .location-1 {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 67.0px;
+  margin-top: 79px;
+  min-height: 69px;
+  width: 214px;
+}
+
+.web-1920-1 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 283px;
+  margin-left: 2.0px;
+  margin-top: 66px;
+  min-width: 730px;
+}
+
+.web-1920-1 .address-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  min-height: 192px;
+  width: 296px;
+}
+
+.web-1920-1 .address {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 20px;
+  min-height: 42px;
+  width: 197px;
+}
+
+.web-1920-1 .address-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 122px;
+  white-space: nowrap;
+}
+
+.web-1920-1 .flex-col-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 263px;
+  width: 411px;
+}
+
+.web-1920-1 .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--brown-sugar);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 59px;
+  min-width: 268px;
+  padding: 7px 49px;
+}
+
+.web-1920-1 .apple-maps {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 160px;
+  white-space: nowrap;
+}
+
+.web-1920-1 .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--brown-sugar);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  display: flex;
+  height: 59px;
+  justify-content: flex-end;
+  margin-top: 22px;
+  min-width: 268px;
+  padding: 7px 40px;
+}
+
+.web-1920-1 .google-maps {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 179px;
+  white-space: nowrap;
+}
+
+.web-1920-1 .hours {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: 54px;
+  min-height: 69px;
+  width: 157px;
+}
+
+.web-1920-1 .overlap-group4 {
+  height: 384px;
+  margin-top: 23px;
+  position: relative;
+  width: 1080px;
+}
+
+.web-1920-1 .overlap-group {
+  height: 364px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 1080px;
+}
+
+.web-1920-1 .monday-by-requestt {
+  left: 147px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.web-1920-1 .rectangle-3 {
+  background-color: #5e3e36;
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 196px;
+  width: 1080px;
+}
+
+.web-1920-1 .contact-us678-558-3758 {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 210px;
+  width: 232px;
+}
+
+.web-1920-1 .saturday-5am-5pmsunday-5am-5pm {
+  left: 724px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
